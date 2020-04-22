@@ -3,10 +3,10 @@
   <channel>
     <title>Noob Saga</title>
     <description>A group of noobs unfolding their own saga.</description>
-    <link>http://localhost:3000/</link>
-    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 23 Apr 2020 02:19:28 +0800</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2020 02:19:28 +0800</lastBuildDate>
+    <link>https://www.noobsaga.com//</link>
+    <atom:link href="https://www.noobsaga.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 23 Apr 2020 02:25:30 +0800</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2020 02:25:30 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:3000/web%20development/2020/04/01/project-2/</link>
-        <guid isPermaLink="true">http://localhost:3000/web%20development/2020/04/01/project-2/</guid>
+        <link>https://www.noobsaga.com//web%20development/2020/04/01/project-2/</link>
+        <guid isPermaLink="true">https://www.noobsaga.com//web%20development/2020/04/01/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:3000/web%20development/2020/04/01/project-1/</link>
-        <guid isPermaLink="true">http://localhost:3000/web%20development/2020/04/01/project-1/</guid>
+        <link>https://www.noobsaga.com//web%20development/2020/04/01/project-1/</link>
+        <guid isPermaLink="true">https://www.noobsaga.com//web%20development/2020/04/01/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:3000/artificial%20intelligence/2014/07/17/project-3/</link>
-        <guid isPermaLink="true">http://localhost:3000/artificial%20intelligence/2014/07/17/project-3/</guid>
+        <link>https://www.noobsaga.com//artificial%20intelligence/2014/07/17/project-3/</link>
+        <guid isPermaLink="true">https://www.noobsaga.com//artificial%20intelligence/2014/07/17/project-3/</guid>
         
         
         <category>Artificial Intelligence</category>
