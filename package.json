@@ -1,0 +1,26 @@
+{
+  "name": "NoobSaga",
+  "version": "0.0.1",
+  "description": "Noob Saga Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zedrick John Villas",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "npm": "^6.13.7"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "jekyll": "^4.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-terser": "^1.2.0"
+  }
+}
