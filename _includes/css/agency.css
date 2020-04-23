@@ -269,9 +269,10 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: center center;
-    background-repeat: none;
+    background-color: #222;
+    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-position: center;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -658,7 +659,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -864,4 +865,19 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.inner-page .navbar {
+    background-color: #222;
+}
+
+.inner-page .inner-page-content p,
+.inner-page .inner-page-content ul li {
+    text-align: justify;
+}
+
+.inner-page .inner-page-content h2,
+.inner-page .inner-page-content h3,
+.inner-page .inner-page-content h4 {
+    margin: 25px 0;
 }
