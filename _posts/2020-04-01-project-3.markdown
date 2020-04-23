@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Insurance Company
 category: Artificial Intelligence
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Delivered chatbots to insurance companies in the Philippines and Hongkong. The bots were used to chat with customers about their policies and investments, and they even give wellness tips to relieve stress of the customers. The bot supports Chinese and English language and continuously learns through its interaction with customers everyday.
 ---

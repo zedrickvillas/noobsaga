@@ -10,5 +10,5 @@ alt: image-alt
 project-date: January 2018
 client: Personal Portfolio
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Used Jekyll which is a simple blogging tool that is supported by Github to be the creation tool for its pages, also, used SASS, Particle.JS, JQuery, and Gulp to achieve the outcome wanted.
 ---

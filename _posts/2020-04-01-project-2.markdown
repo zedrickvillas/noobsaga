@@ -10,5 +10,5 @@ alt: image-alt
 project-date: June 2016
 client: Gaming Company
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A complex mobile site that we've worked on. This mobile site will be the mobile counterpart of multiple desktop sites. We've used multiple technologies to fulfill all the requirements by the client some are jQuery, Vue.Js, sliderJs and SASS for the front-end and Drupal 7 for the Back-end CMS.
 ---

@@ -176,8 +176,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Ceviche One","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    font-size : 40px !important;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -880,4 +881,11 @@ body {
 .inner-page .inner-page-content h3,
 .inner-page .inner-page-content h4 {
     margin: 25px 0;
+}
+
+.brand-font {
+    font-family: "Ceviche One","Helvetica Neue",Helvetica,Arial,cursive !important;
+    color: #{{ site.data.template.color.primary }};
+    line-height: 100px !important;
+    font-size: 100px !important;
 }
