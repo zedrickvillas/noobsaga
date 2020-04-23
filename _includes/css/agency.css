@@ -868,7 +868,7 @@ body {
 }
 
 .inner-page .navbar {
-    background-color: #222;
+    background-color: #222 !important;
 }
 
 .inner-page .inner-page-content p,
