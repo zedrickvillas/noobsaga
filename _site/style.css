@@ -876,7 +876,7 @@ body {
 }
 
 .inner-page .navbar {
-    background-color: #222;
+    background-color: #222 !important;
 }
 
 .inner-page .inner-page-content p,
@@ -889,4 +889,5 @@ body {
 .inner-page .inner-page-content h4 {
     margin: 25px 0;
 }
+
 
