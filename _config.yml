@@ -21,7 +21,7 @@ people:
 
   - name: Ren Alcantara
     pic: ren
-    position: Founder
+    position: Co-Founder
     social:
       - title: twitter
         url: #
@@ -30,16 +30,16 @@ people:
       - title: linkedin
         url: #
 
-  - name: Myke Cedar Vasquez
-    pic: myke
-    position: Founder
-    social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
-        url: #
+  #- name: Myke Cedar Vasquez
+  #  pic: myke
+  #  position: Founder
+  #  social:
+  #    - title: twitter
+  #      url: #
+  #    - title: facebook
+  #      url: #
+  #    - title: google-plus
+  #      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

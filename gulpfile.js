@@ -15,7 +15,7 @@ var jekyllCommand = /^win/.test(process.platform) ? "jekyll.bat" : "jekyll";
  * Build the Jekyll Site
  * runs a child process in node that runs the jekyll commands
  */
-gulp.task("jekyll-build", function (done) {
+gulp.task("jekyll-build", function(done) {
   return cp
     .spawn(jekyllCommand, ["build"], { stdio: "inherit" })
     .on("close", done);
@@ -27,7 +27,7 @@ gulp.task("jekyll-build", function (done) {
  */
 gulp.task(
   "jekyll-rebuild",
-  gulp.series("jekyll-build", function (done) {
+  gulp.series("jekyll-build", function(done) {
     browserSync.reload();
     done();
   })
@@ -38,7 +38,7 @@ gulp.task(
  */
 gulp.task(
   "browser-sync",
-  gulp.series(function () {
+  gulp.series(function() {
     return browserSync.init({
       server: {
         baseDir: "_site",
@@ -50,7 +50,7 @@ gulp.task(
 /*
  * Compile and minify sass
  */
-gulp.task("sass", function () {
+gulp.task("sass", function() {
   return gulp
     .src("src/styles/**/*.scss")
     .pipe(plumber())
@@ -62,7 +62,7 @@ gulp.task("sass", function () {
 /*
  * Compile fonts
  */
-gulp.task("fonts", function () {
+gulp.task("fonts", function() {
   return gulp
     .src("src/fonts/**/*.{ttf,woff,woff2}")
     .pipe(plumber())
@@ -72,7 +72,7 @@ gulp.task("fonts", function () {
 /*
  * Minify images
  */
-gulp.task("imagemin", function () {
+gulp.task("imagemin", function() {
   return gulp
     .src("src/img/**/*.{jpg,png,gif,svg}")
     .pipe(plumber())
@@ -85,7 +85,7 @@ gulp.task("imagemin", function () {
 /**
  * Compile and minify js
  */
-gulp.task("js", function () {
+gulp.task("js", function() {
   return gulp
     .src("src/js/**/*.js")
     .pipe(plumber())
@@ -94,7 +94,7 @@ gulp.task("js", function () {
     .pipe(gulp.dest("assets/js/"));
 });
 
-gulp.task("watch", function () {
+gulp.task("watch", function() {
   gulp.watch("src/styles/**/*.scss", gulp.series("sass", "jekyll-rebuild"));
   gulp.watch("src/js/**/*.js", gulp.series("js", "jekyll-rebuild"));
   gulp.watch(
