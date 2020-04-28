@@ -30,16 +30,16 @@ people:
       - title: linkedin
         url: #
 
-  #- name: Myke Cedar Vasquez
-  #  pic: myke
-  #  position: Founder
-  #  social:
-  #    - title: twitter
-  #      url: #
-  #    - title: facebook
-  #      url: #
-  #    - title: google-plus
-  #      url: #
+  - name: Marielet Guillermo
+    pic: let
+    position: Content Creator
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: google-plus
+        url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
