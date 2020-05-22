@@ -1,14 +1,15 @@
 ---
-title: Zedrick's Portfolio
-subtitle: Website Design
+title: Video Surveillance
+subtitle: Artificial Intelligence
 layout: default
 modal-id: 3
 date: 2020-04-01
-img: portfolio.png
-thumbnail: portfolio.png
+img: video-ai.png
+thumbnail: video-ai.png
 alt: image-alt
-project-date: January 2018
-client: Personal Portfolio
-category: Web Development
-description: Used Jekyll which is a simple blogging tool that is supported by Github to be the creation tool for its pages, also, used SASS, Particle.JS, JQuery, and Gulp to achieve the outcome wanted.
+project-date: March 2020
+client: Global Tech Organization
+category: Artificial Intelligence
+description: Used convolutional neural network for detection and classification of public security threats through video feeds from CCTV cameras. This was presented on a global conference held and organized by a Japan tech organization. The publication can be found on the IEEE Xplore digital library.
+author-name: Engr. Marielet Guillermo
 ---

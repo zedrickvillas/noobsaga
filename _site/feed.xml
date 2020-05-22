@@ -5,9 +5,9 @@
     <description>A group of noobs unfolding their own saga.</description>
     <link>https://www.noobsaga.com//</link>
     <atom:link href="https://www.noobsaga.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Apr 2020 20:37:57 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2020 20:37:57 +0800</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Fri, 22 May 2020 22:15:11 +0800</pubDate>
+    <lastBuildDate>Fri, 22 May 2020 22:15:11 +0800</lastBuildDate>
+    <generator>Jekyll v4.0.1</generator>
     
       <item>
         <title>Mobile Hub</title>
@@ -23,20 +23,20 @@
       </item>
     
       <item>
-        <title>Zedrick's Portfolio</title>
+        <title>Video Surveillance</title>
         <description>
 </description>
         <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
-        <link>https://www.noobsaga.com//web%20development/2020/04/01/project-1/</link>
-        <guid isPermaLink="true">https://www.noobsaga.com//web%20development/2020/04/01/project-1/</guid>
+        <link>https://www.noobsaga.com//artificial%20intelligence/2020/04/01/project-1/</link>
+        <guid isPermaLink="true">https://www.noobsaga.com//artificial%20intelligence/2020/04/01/project-1/</guid>
         
         
-        <category>Web Development</category>
+        <category>Artificial Intelligence</category>
         
       </item>
     
       <item>
-        <title>Chatbots</title>
+        <title>Chatbotss</title>
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0800</pubDate>

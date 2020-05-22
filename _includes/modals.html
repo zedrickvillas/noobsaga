@@ -1,5 +1,6 @@
 <!-- Portfolio Modals -->
 {% for post in site.posts %}
+
 <div
   class="portfolio-modal modal fade"
   id="portfolioModal{{ post.modal-id }}"
@@ -35,8 +36,8 @@
                 <strong>{{ post.project-date }} </strong>
               </li>
               <li>
-                Service:
-                <strong><{{ post.category }}</strong>
+                Author:
+                <strong>{{ post.author-name }}</strong>
               </li>
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal">
